@@ -1,2 +1,2 @@
 # StuTestSite
-test web sitye
+test web site
